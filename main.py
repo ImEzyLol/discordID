@@ -1,8 +1,8 @@
 import requests
 import datetime
 
-token = '' #bot token to interact with API
-user_id = '1090393830047617034' #your user ID
+token = 'YOUR_TOKEN' #bot token to interact with API
+user_id = 'YOUR_USER_ID' #your user ID e.g: 1090393830047617034
 
 def fetch_user(id):
     url = f'https://discord.com/api/v9/users/{id}'
