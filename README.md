@@ -4,7 +4,7 @@ This Python script fetches and displays the creation date of a Discord user usin
 
 1. Import the required libraries: `requests` for API calls and `datetime` for timestamp conversion.
 
-2. Set your Discord bot token by replacing `'YOUR_TOKEN'` with your actual token.
+2. Set your Discord bot token by replacing `'YOUR_TOKEN'` with your bot's token.
 
 3. Define the `fetch_user` function to fetch user data from the Discord API.
 
